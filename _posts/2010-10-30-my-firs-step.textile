@@ -1,0 +1,16 @@
+---
+layout: post
+title: My First Step
+---
+
+{{ page.title }}
+================
+
+<p class="meta">30 October 2010 - Eindhoven</p>
+
+h1. My First Step
+
+This is my first step in the blogosphere. Various stuff. From
+programming to music to running to philosophy.
+
+
