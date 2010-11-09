@@ -1,0 +1,13 @@
+---
+layout: post
+title: Yes, another Hello World!
+---
+
+h1. {{ page.title }}
+
+p(meta). 30 October 2010 - Eindhoven
+
+Last couple of days I have spent my free time finding out what would be a cool way to setup and manage my blog. It turns out that "Github":http://github.com is my biggest friend. First of all Github offers me a safe place to store postings, including all benefits of full revision control. My "blog":http://github.com/brokenfractal can live at github as well, it runs out-of-the-box from the repository. 
+
+I write the posts in  "RedCloth textile":http://redcloth.org/textile/, I make use of "Jekyll":http://github.com/mojombo/jekyll to render the site (at least the github blog hosting does that). Of course I did not invent all of this myself but rather looked what the experts have done before me. Layout and looks are inspired by the blog of "Tom Preston-Werner":http://tom.preston-werner.com as I liked its minimal feel.
+
